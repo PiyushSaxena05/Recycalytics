@@ -1,5 +1,3 @@
-package JDBC.Project;
-
 import java.io.FileInputStream;
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -312,3 +310,4 @@ public class Recycalytics extends Information {
         }
     }
 }
+
